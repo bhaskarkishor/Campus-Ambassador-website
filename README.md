@@ -12,8 +12,8 @@ Then install the dependencies
 Configure the local environment variables in .env file in the root of project directory
 `touch .env && cp .env.example .env`
 
-Run the migrations
+Run the migrations  
 `php artisan migrate`
 
-Serve the files
-`php artisan serve
+Serve the files<br/>
+`php artisan serve'
