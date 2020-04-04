@@ -1,5 +1,5 @@
 # Campus Ambassador Registration Portal | Wissenaire 20
-[official site](ca.wissenaire.org)
+[Official site](http://ca.wissenaire.org)  
 This repo hosts the codebase for Campus Ambassador Registraion Portal of Wissenaire Campus Ambassador Program.  
 This project uses Laravel framework for backend written in php and implements facebook auth for authentication of users.  
 
